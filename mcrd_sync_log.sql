@@ -1,23 +1,3 @@
---
--- Create Schema Script 
---   Database Version          : 11.2.0.4.0 
---   Database Compatible Level : 11.2.0.4.0 
---   Script Compatible Level   : 11.2.0.4.0 
---   Toad Version              : 12.0.0.61 
---   DB Connect String         : DZMW_WORK 
---   Schema                    : PARUS 
---   Script Created by         : PARUS 
---   Script Created at         : 05/02/2021 17:16:50 
---   Physical Location         :  
---   Notes                     :  
---
-
--- Object Counts: 
---   Indexes: 1         Columns: 1          
---   Object Privileges: 1 
---   Packages: 1        Lines of Code: 38 
---   Package Bodies: 1  Lines of Code: 135 
---   Tables: 1          Columns: 16         Constraints: 2      
 
 
 CREATE TABLE MCRD_SYNC_LOG
